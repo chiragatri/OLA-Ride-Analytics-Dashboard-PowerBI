@@ -71,31 +71,20 @@ The dataset was processed and transformed using Power Query before dashboard dev
 ## 6. Screenshots / Demo
 
 ### Page 1 – Overall Dashboard
-![Overall Dashboard](Screenshots/01_Overall_Dashboard.png)
+https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Overall.png
 
 ### Page 2 – Vehicle Type Analysis
-![Vehicle Type Dashboard](Screenshots/02_Vehicle_Type.png)
+https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Vehicle_Type.png
 
 ### Page 3 – Revenue Analysis
-![Revenue Dashboard](Screenshots/03_Revenue_Analysis.png)
+https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Revenue.png
 
 ### Page 4 – Cancellation Analysis
-![Cancellation Dashboard](Screenshots/04_Cancellation_Analysis.png)
+https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Cancellation.png
 
 ### Page 5 – Ratings Analysis
-![Ratings Dashboard](Screenshots/05_Ratings_Analysis.png)
+https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Ratings.png
 
-## Project File
-
-- `Ola_Dashboard.pbix` – Complete Power BI dashboard.
-
-**How to Explore:**
-1. Clone or download this repository.
-2. Install Microsoft Power BI Desktop.
-3. Open the `Ola_Dashboard.pbix` file.
-4. Refresh the dataset if required.
-
----
 
 **Developed by:** Chirag Attri
 
