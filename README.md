@@ -72,7 +72,6 @@ The dataset was processed and transformed using Power Query before dashboard dev
 
 ### Page 1 – Overall Dashboard
 https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Overall.png
-
 ### Page 2 – Vehicle Type Analysis
 https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Vehicle_Type.png
 
