@@ -74,16 +74,16 @@ The dataset was processed and transformed using Power Query before dashboard dev
 ![OLA Dashboard Overview](https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Overall.png)
 
 ### Page 2 – Vehicle Type Analysis
-https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Vehicle_Type.png
+![Vehicle type analysis](https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Vehicle_Type.png)
 
 ### Page 3 – Revenue Analysis
-https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Revenue.png
+![](https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Revenue.png)
 
 ### Page 4 – Cancellation Analysis
-https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Cancellation.png
+![](https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Cancellation.png)
 
 ### Page 5 – Ratings Analysis
-https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Ratings.png
+![](https://github.com/chiragatri/OLA-Ride-Analytics-Dashboard-PowerBI/blob/main/Ratings.png)
 
 
 **Developed by:** Chirag Attri
